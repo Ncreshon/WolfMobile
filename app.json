@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Wolf Era Mobile",
+    "description": "Pack Management",
+    "slug": "WolfEra",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/wolf.png",
+    "splash": {
+      "image": "./assets/images/wolf.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#485665"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
